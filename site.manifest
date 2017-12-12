@@ -1,0 +1,21 @@
+
+CACHE MANIFEST
+
+# Version 0.1
+
+
+CACHE:
+index.html
+
+css/style.css
+img/logo.png
+
+FALLBACK:
+
+//offline.html
+
+NETWORK:
+
+*
+
+earth-folder.png
